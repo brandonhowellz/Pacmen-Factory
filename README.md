@@ -5,7 +5,7 @@ Generate multiple bouncing Pacman within browser window
 
 # How to Run
 <ol>
-  <li>Download Filse</li>
+  <li>Download File</li>
   <li>Open the "index.html" file</li>
 </ol>
 
